@@ -1,8 +1,8 @@
-# Project Title
+# Visual Vocoder
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
+- Richie Wallett, github account
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
