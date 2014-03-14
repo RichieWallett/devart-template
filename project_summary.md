@@ -1,4 +1,4 @@
-# Visual Vocoder
+# Project Title
 Insert the name of your project
 
 ## Authors
@@ -28,6 +28,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![rw_vis_voc-02](https://f.cloud.github.com/assets/6939546/2419349/d5abed04-ab5b-11e3-8dbb-7e03b4e183aa.jpg)
+
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
