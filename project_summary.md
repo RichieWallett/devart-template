@@ -1,5 +1,5 @@
-# Visual Vocoder
-Insert the name of your project
+# Title
+Visual Vocoder
 
 ## Authors
 - Insert main author name, surname, github account
