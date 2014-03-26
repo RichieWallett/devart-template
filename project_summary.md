@@ -1,5 +1,5 @@
-# Title
-Visual Vocoder
+# Visual Vocoder
+Making shapes with your mouth
 
 ## Authors
 - Insert main author name, surname, github account
