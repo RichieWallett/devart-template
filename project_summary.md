@@ -1,4 +1,4 @@
-# Project Title
+# Visual Vocoder
 Insert the name of your project
 
 ## Authors
