@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Is this my fork?
 Insert the name of your project
+=======
+# Visual Vocoder
+Making shapes with your mouth
+>>>>>>> FETCH_HEAD
 
 ## Authors
 - Authour, github account
@@ -28,6 +33,10 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
+<<<<<<< HEAD
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
+=======
+![Example Image](http://www.graphicboutique.co.uk/lab/images/cover.jpg?raw=true "Example Image")
+>>>>>>> FETCH_HEAD
