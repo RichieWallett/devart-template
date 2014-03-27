@@ -31,10 +31,4 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-<<<<<<< HEAD
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
-
-
-=======
 ![Example Image](http://www.graphicboutique.co.uk/lab/images/cover.jpg?raw=true "Example Image")
->>>>>>> FETCH_HEAD
