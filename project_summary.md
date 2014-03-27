@@ -1,5 +1,5 @@
 # Visual Vocoder
-Making shapes.
+Sing shapes.
 
 ## Authors
 - Richie Wallett, https://github.com/RichieWallett
