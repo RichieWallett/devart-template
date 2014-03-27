@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Now"
         ],
         "platforms": [
             "MaxMSP, Jitter, Gen"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Javascript, JQuery"
         ]
     },
     "themes": [
