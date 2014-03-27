@@ -5,7 +5,11 @@ Sing shapes.
 - Richie Wallett, https://github.com/RichieWallett
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+A voice controlled entertainment suite of custom sounds & shapes. Your voice triggers 'Ok Google' to find a song to sing. The Visual Vocoder takes the MIDI data and sync's from a library of unique instrument sounds and graphical shapes, then attaches each to an object that is your voice (created with a blend MAX MSP and Javascript). 
+
+Adjust your timbre, pitch, volume to change the shape's form and character. Adding another voice, adds a new shape and they begin to morph together. When harmonies align, new *special shapes are formed. Winners share these tracks via SoundCloud & Twitter.
+
+Make sweet or sour music together.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
@@ -30,7 +34,7 @@ NOTE: For additional images you can either use a relative link to an image on th
 <<<<<<< HEAD
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+
 =======
 ![Example Image](http://www.graphicboutique.co.uk/lab/images/cover.jpg?raw=true "Example Image")
 >>>>>>> FETCH_HEAD
